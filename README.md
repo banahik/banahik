@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @banahik. Space engineer
 - 🤖 I'm trying to make a balancing cube
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 
 <!---
