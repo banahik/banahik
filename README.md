@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @banahik. Space engineer
 - 🤖 I'm trying to make a balancing cube
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 
 <!---
 banahik/banahik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
